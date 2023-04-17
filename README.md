@@ -6,4 +6,4 @@
 
 # Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=html, css, tailwind, bootstrap, sass, js, ts, react, redux, materialui, nodejs, express, mongodb, git, github, gitlab, vite, webpack, jest, postman&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,sass,js,ts,react,redux,materialui,nodejs,express,mongodb,git,github,gitlab,vite,webpack,jest,postman&theme=light)](https://skillicons.dev)
