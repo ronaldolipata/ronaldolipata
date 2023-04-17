@@ -5,6 +5,5 @@
 - 📫 You may reach to me through LinkedIn: https://www.linkedin.com/in/ronaldolipata/
 
 # Technologies
-[![My Skills](https://skillicons.dev/icons?i=html, css, tailwind, bootstrap, sass, js, ts, react, redux, materialui, nodejs, express, mongodb, git, github, gitlab, vite, webpack, jest, postman)
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html, css, tailwind, bootstrap, sass, js, ts, react, redux, materialui, nodejs, express, mongodb, git, github, gitlab, vite, webpack, jest, postman&theme=light)](https://skillicons.dev)
