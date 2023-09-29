@@ -1,6 +1,6 @@
 # Hi👋 I'm Ronaldo Lipata 💻☕
 
-Passionate about creating intuitive, and responsive web applications that provide a seamless user experience
+Passion for building intuitive and beautifully made applications
 
 - 👀 I’m interested in Web Development, AI, Blockchain, and Smart Contracts.
 - 🌱 I’m currently learning Unit Test, Integration Test, and AWS.
