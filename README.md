@@ -13,4 +13,4 @@ Passion for building intuitive and beautifully made applications
 
 ## Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,redux,nodejs,express,mongodb,git,github,vite,jest,postman&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,redux,nodejs,express,mongodb,git,vite,jest,postman&theme=light)](https://skillicons.dev)
