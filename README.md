@@ -2,7 +2,6 @@
 
 Passion for building intuitive and beautifully made applications
 
-Interests:
 - Software Development
 - AI
 - Blockchain
